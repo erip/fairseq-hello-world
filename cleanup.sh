@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-rm -rf data* sentencepiece.bpe* corpus.txt model
+rm -rf data* sentencepiece.bpe* corpus.txt model checkpoints
